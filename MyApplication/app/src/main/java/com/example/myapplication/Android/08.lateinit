@@ -1,0 +1,9 @@
+
+
+
+
+lateinit
+- init -> initalization
+- late -> 늦게 나중에
+
+-> 초기값을 나중에 셋팅 해주겠다
